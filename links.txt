@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.tx
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt
+https://raw.githubusercontent.com/MrCloudyGod/CloudyRules_ADD/main/Cloudy_Direct.yaml
