@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "agedm.org",
+        "agemys.org",
+        "freeok.pro",
+        "freeok.vip"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".agedm.org",
+        ".agemys.org",
+        ".freeok.pro",
+        ".freeok.vip"
+      ]
+    }
+  ],
+  "version": 1
+}
